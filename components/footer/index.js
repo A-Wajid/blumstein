@@ -47,7 +47,7 @@ const Footer = () => {
                         </div>
                         {/* input_div */}
                         <div>
-                            <input placeholder="Yor Email" className="w-full bg-gray-700 rounded-md   placeholder:text-white text-base font-normal  pt-5 pl-5 pb-5" />
+                            <input placeholder="Yor Email" className="w-full bg-gray-700 rounded-md   placeholder:text-white text-base font-normal  pt-5 pl-5 pb-5 focus:outline-none" />
                             {/* button_div */}
                             <div className="flex justify-end -mt-16">
                                 <button className="bg-[#E68A00] py-5 px-7 rounded text-base font-medium text-white">

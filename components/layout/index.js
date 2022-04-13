@@ -32,7 +32,7 @@ const Layout = () => {
                                 <div>
                                     <img src="/images/search.png" />
                                 </div>
-                                <input placeholder="Search..." className=" pl-2  w-full   placeholder:text-gray-800 text-base font-medium" />
+                                <input placeholder="Search..." className=" pl-2  w-full   placeholder:text-gray-800 text-base font-medium focus:outline-none" />
                             </div>
                         </div>
                     </div>
