@@ -9,10 +9,6 @@ const Header = () => {
                         <div className="py-3">
                             <img src="/images/logo.png" />
                         </div>
-                        {/* hamburder_responsive */}
-                        <div>
-                            
-                        </div>
                         {/* header_nav */}
                         <div className="hidden md:block">
                             <div className="flex space-x-10  py-[21px] cursor-pointer ">

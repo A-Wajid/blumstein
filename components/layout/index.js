@@ -4,10 +4,10 @@ const Layout = () => {
                 {/* layout_main_div */}
                 <div className="flex items-center justify-between border-b border-solid border-b-gray-200 pt-12 pb-6 ">
                     {/* left_side_div */}
-                    <div className="flex items-center cursor-pointer">
+                    <div className="md:flex items-center cursor-pointer">
                         {/* heading_div */}
                         <div>
-                            <p className="text-base font-medium">Showing <span className="text-[#FFC700]">12 Videos</span></p>
+                            <p className="text-base font-medium hidden md:block">Showing <span className="text-[#FFC700]">12 Videos</span></p>
                             <h1 className="text-gray-800 text-4xl font-bold pt-3">Watch & Learn</h1>
                         </div>
                         {/* buyer_seller */}
